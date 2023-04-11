@@ -69,7 +69,7 @@ Project Link: [eSystem][link-project]
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[link-project]: https://github.com/jocimajsc/eSystem
+[link-project]: https://github.com/jocimarjsc/eSystem
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jocimarcosta/
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
