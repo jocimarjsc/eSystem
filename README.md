@@ -49,9 +49,18 @@ I worked in a printing company where all management is done on paper, budget, ca
 
 - [x] Starting project
 - [x] Created README
-- [ ] Install and configure libraries/frameworks
-    - [ ] Prisma
-    - [ ] Typescript
+- <details>
+    <summary>[ ] Install and configure libraries/frameworks</summary>
+    <ul>
+      <li>[x] prisma</li>
+      <li>[x] typescript</li>
+      <li>[x] ts-node</li>
+      <li>[x] express</li>
+      <li>[x] dotenv</li>
+      <li>[x] mysql</li>
+    </ul>
+  </details>
+- [ ] Create server
 
 See the [open issues](https://github.com/jocimarjsc/eSystem/issues) for a full list of proposed features (and known issues).
 
